@@ -5,9 +5,9 @@ Tech used: MapMyIndia API, Google Places API, Firebase.
 
 ## Danger Index and colour-coded routes
 <br/>
-1. Know the danger index of the location you’re driving in currently.
-2. Also, get to know the danger index of the five closest areas from your location. 
-3. Danger index has been calculated on a scale of 10.
+- Know the danger index of the location you’re driving in currently.
+- Also, get to know the danger index of the five closest areas from your location. 
+- Danger index has been calculated on a scale of 10.
 
 According to danger index, routes have been coloured as: Green (1-4), Orange (4-7), Red (7-10)
 
@@ -33,10 +33,10 @@ According to danger index, routes have been coloured as: Green (1-4), Orange (4-
 
 ## Emergency Help
 <br/>
-###### 1. Call your emergency contacts in one tap
-###### 2. Get to the nearest police stations
-###### 3. Get info on nearest hospitals from your location
-###### 4. Send SMS to emergency contacts instantly
+- 1. Call your emergency contacts in one tap 
+- 2. Get to the nearest police stations
+- 3. Get info on nearest hospitals from your location
+- 4. Send SMS to emergency contacts instantly
 
 <p align="center">
 <img src="https://github.com/Ahelii16/Trippin/blob/master/help.png" alt="Help" width="250"/>
