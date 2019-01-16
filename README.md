@@ -14,7 +14,7 @@ According to danger index, routes have been coloured as: Green (1-4), Orange (4-
 <p align = "center">
 
 <img src="https://github.com/Ahelii16/Trippin/blob/master/dangerindex.png" alt="Danger Index" width="250"/>
-<img src="https://github.com/Ahelii16/Trippin/blob/master/route.png" alt="Map route" width="250"/>
+<img src="https://github.com/Ahelii16/Trippin/blob/master/routes.png" alt="Map route" width="250"/>
 
 </p>
 
